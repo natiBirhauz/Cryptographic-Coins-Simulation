@@ -1,6 +1,6 @@
 
 # Cryptographic Coins Simulation
-students: 
+students: Nati Birhauz- 311227888
 Gavriel Shalem - 205461486
 
 ## Overview
